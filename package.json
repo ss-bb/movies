@@ -12,6 +12,9 @@
     "typecheck": "vue-tsc --noEmit"
   },
   "dependencies": {
+    "@capacitor/android": "^6.1.0",
+    "@capacitor/core": "^6.1.0",
+    "@capacitor/ios": "^6.1.0",
     "@nuxtjs/html-validator": "^1.8.2",
     "vue-router-better-scroller": "^0.0.0"
   },
