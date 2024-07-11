@@ -1,9 +1,9 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'zatsit.com',
-  appName: 'zatsit',
-  webDir: '.output/public'
+  appId: 'com.example.app',
+  appName: 'App',
+  webDir: 'dist'
 };
 
 export default config;

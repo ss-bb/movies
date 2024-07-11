@@ -6,6 +6,7 @@
     "build": "nuxi build",
     "dev": "nuxi dev",
     "dev:proxy": "cd proxy && pnpm dev",
+    "generate": "nuxi generate",
     "start": "node .output/server/index.mjs",
     "prepare": "nuxi prepare",
     "lint": "eslint .",
@@ -20,6 +21,7 @@
   },
   "devDependencies": {
     "@antfu/eslint-config": "^2.15.0",
+    "@capacitor/cli": "^6.1.0",
     "@iconify-json/carbon": "^1.1.31",
     "@iconify-json/cib": "^1.1.8",
     "@iconify-json/ph": "^1.1.12",

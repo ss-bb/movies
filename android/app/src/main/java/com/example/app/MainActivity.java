@@ -1,4 +1,4 @@
-package zatsit.com;
+package com.example.app;
 
 import com.getcapacitor.BridgeActivity;
 
